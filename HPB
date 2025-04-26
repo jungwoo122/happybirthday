@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>비밀 메시지</title>
+    <script>
+      alert("문 앞을 봐");
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
